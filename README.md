@@ -26,3 +26,11 @@ I am Mouni from skr
   
 # links
 nagurinchi tellayall ante [google](https://www.google.com)
+
+# table
+
+s.no[name]marks
+------|------|------
+1|abc|90
+2|bbc|99
+3|tv9|100
